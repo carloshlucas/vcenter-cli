@@ -1,0 +1,18 @@
+####### CONFIGURING A NEW VCENTER #####
+
+### CREATING DATACENTER ###
+
+
+### CREATING CLUSTER ###
+
+
+### ADD HOSTS TO THE CLUSTER ###
+
+
+### ADD DATASTORES ###
+
+
+### CREATE VDS ###
+
+
+### CREATE PORTGROUP ###
